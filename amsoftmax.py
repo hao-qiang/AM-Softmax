@@ -7,7 +7,7 @@ from keras.engine import InputSpec
 import tensorflow as tf
 import numpy as np
 
-class Cosine(Layer):
+class AMSoftmax(Layer):
     def __init__(self, output_dim, **kwargs):
         self.output_dim = output_dim
         super(AMSoftmax, self).__init__(**kwargs)
