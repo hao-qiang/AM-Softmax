@@ -1,2 +1,2 @@
 # AM-Softmax
-This is an AM-Softmax tutorial and keras implement.
+This is an AM-Softmax tutorial and keras implementation.
